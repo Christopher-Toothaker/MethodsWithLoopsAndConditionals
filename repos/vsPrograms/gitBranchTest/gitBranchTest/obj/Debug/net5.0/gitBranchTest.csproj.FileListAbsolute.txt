@@ -1,0 +1,16 @@
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\bin\Debug\net5.0\gitBranchTest.exe
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\bin\Debug\net5.0\gitBranchTest.deps.json
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\bin\Debug\net5.0\gitBranchTest.runtimeconfig.json
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\bin\Debug\net5.0\gitBranchTest.runtimeconfig.dev.json
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\bin\Debug\net5.0\gitBranchTest.dll
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\bin\Debug\net5.0\gitBranchTest.pdb
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\obj\Debug\net5.0\gitBranchTest.csproj.AssemblyReference.cache
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\obj\Debug\net5.0\gitBranchTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\obj\Debug\net5.0\gitBranchTest.AssemblyInfoInputs.cache
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\obj\Debug\net5.0\gitBranchTest.AssemblyInfo.cs
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\obj\Debug\net5.0\gitBranchTest.csproj.CoreCompileInputs.cache
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\obj\Debug\net5.0\gitBranchTest.dll
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\obj\Debug\net5.0\refint\gitBranchTest.dll
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\obj\Debug\net5.0\gitBranchTest.pdb
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\obj\Debug\net5.0\gitBranchTest.genruntimeconfig.cache
+C:\Users\Chris\repos\vsPrograms\gitBranchTest\gitBranchTest\obj\Debug\net5.0\ref\gitBranchTest.dll
