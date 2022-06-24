@@ -33,7 +33,7 @@ namespace MethodsWithLoopsAndConditionals
         {
             Console.WriteLine("This part counts to 999 by 3 starting from 3. Press any key to continue.");
             Console.ReadKey();
-            
+
             int oddCount = 3;
             do
             {
@@ -47,7 +47,7 @@ namespace MethodsWithLoopsAndConditionals
 
         public static bool EqualCheck()
         {
-            
+
             Console.WriteLine(" This part determines if two numbers are equal or not. " +
                 "Enter a number and press Return, then enter another number and press Return.");
 
@@ -62,7 +62,7 @@ namespace MethodsWithLoopsAndConditionals
 
         public static bool EvenOrOdd()
         {
-        
+
             Console.WriteLine("This part determines if a number is even or odd. " +
                 "Enter a number and press Return to see if it is even or odd.");
 
@@ -77,7 +77,7 @@ namespace MethodsWithLoopsAndConditionals
         {
             Console.WriteLine("This part determines if a number is positive or negative. " +
                 "Enter a number and press Return to see if it is positive or negative.");
-            
+
             var num = int.Parse(Console.ReadLine());
 
             if (num > 0)
